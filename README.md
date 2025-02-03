@@ -1,6 +1,6 @@
 # Kickstarter landing page
 
-- [DEMO LINK](https://nasytheslayer.github.io/Kickstarter_landing/)
+- [DEMO LINK](https://nasytheslayer.github.io/KickstarterLanding/)
 
 - [Figma design](https://www.figma.com/file/Ujp7bCFuvuJlkn8TSbQPSZ/%E2%84%9611-(kickstarter)?node-id=19655%3A33)
 
@@ -22,12 +22,12 @@ $ nvm use 14
 
 2. Clone the repository to your local machine, open terminal (GitBash for Windows users) and clone repo with command bellow:
 ```
-$ git clone https://github.com/NasyTheSlayer/Kickstarter_landing.git
+$ git clone https://github.com/NasyTheSlayer/KickstarterLanding.git
 ```
 
 3. Open project in terminal (or GitBash for Windows users):
 ```
-$ code Kickstarter_landing
+$ code KickstarterLanding
 ```
 
 4. Set up project and install necessary packages in the code-editor you use:
